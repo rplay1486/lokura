@@ -1,37 +1,119 @@
 [
-  
-  {
-    "name": "EVENTOS PARAGUAY  ⚽️",
-    "samples": [
-    
-      {
-        "name": "EVENTO PARAGUAY 1",
-        "uri": "vWjWKcFpj6T+fra+2wkkONw2vFW5HJdgYmXBeHNmk8I9bonTnvkqS/RNiy6G+oO+oVphYk0LCwQ9l2CaqWvs1BSGAIfo+TsjRSkDiUow5b1E9XbZ6om59qVm75zKCrj9TFL7sFAwWEyOnPIT1HN+mA==",
-	"channelKid": "96388f9c-9cbc-73d4-256a-97974f9a2aef",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRj3JX2xnxITKnigTo9IvWW+lAUNRdf8avpFmGln84vRsdWAbF2KdzIZYk7DAInItD7ST6RBpFSjNMTsTMNUOBNFqGkf1TuZBKWTHXLVsy5wikWsY6+LUjS7u0xHdrqf7w==",
-        "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
-      },
-      {
-        "name": "EVENTO PARAGUAY 2",
-        "uri": "ztSbjh+EAtoXi+pUD0p/bMzZm97fIrNMv0rfK0YZ/zbG47vfNok0lCF8MA5iuFv2THhbBLVl0hq91js9b9YSpVz7gb4TXpfJk6ZrCqJ0ILeMgAbrCKK/vG8JvcIoMsR3C4JP35pjqgpmOVbT631hpnTIiYk7McFnSef7VTFh+VFuK8aYve7cdI6QMVh7wX/ptA+4AcBfQoAj6KdvzyFJ/+ZZNkASNE6+lUHaI9YxXd/H+8UQgXOQShRL1zpLS/6VaJ+//YPORl1ngYZf/gXMGlv20gze6KISazdS1vbUyJdE+L4/NQlQb/A5qycqnrEfjm7pHlS6cGOqOhKVIEbzYhZd6sjMiptD6z/YvS7HDq0KEqPRCNn3Ob3/Eeq7v9u2j3cFkXb8zkMu8sVNw94ynLPt0fVSMF5RtRtqQ2a2ML95wp/TecLYMjkpEuW/L7uULSDpKwvso6ZeBgGgreoIkzrvodZg7j8G8HR7EKUrgfmUtanNchTQ9j7dzTgfqAxhuplx+9As/KyNmEM0ZcDg6Ygza0ToVtw8/S8bs650Mknvnw6V8XUGcFL7Wpn6y46NXBJJv66bt5hI6vgwmUMgZuPEYm+hCUY5HkePmORyO2s=",
-        "icono": "https://i.ibb.co/XtsQwDh/eventos-2.jpg"
-      },
-      {
-        "name": "EVENTO PARAGUAY 3",
-        "uri": "kdGqq/D+5Do9oLAw6CQsldXxDG/2wm52a/b5IPf1ZuFflvE2RkN8vUZVNw8mZoqGFwOPqj2j+bKRTaLxR3TivA==",
-        "icono": "https://i.ibb.co/SrTXKbL/eventos3.jpg"
-      },
-	{
-        "name": "EVENTO PARAGUAY 4",
-        "uri": "cHhdDC8R3sVpZ/FEVt2J0KGG417xxSuijBZYCnjQaDCNl9vLTVfZZU6gzBGXbFNoL9/X1ZTDABQnn9qBmankGxZh4wshBSCougZAVM+b4cs=",
-        "icono": "https://i.ibb.co/vqbnCq7/eventos4.jpg"
-      },
-      {
-        "name": "TIGO BOLIVIA",
-        "uri": "OkQf+VNCGUJ/r+NRQt8rUHDa1bIEOePPSqAr6w5Cwjd6qEdwknu1883GWgKMUozA+ao0lCE/8qMbKZ1AcUcKEn0dNm653d8wqrWtKHAatUM1N9rFh5uH/P6dk9oSK4zF",
-        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg"
-      }
-    ]
-  }
+    {
+        "name": "EVENTOS STAR+ DE TELEPLAY EXCLUSIVO",
+        "samples": [
+            {
+                "name": "Estoril vs. Porto",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Estoril_vs_Porto_20231206_1701879612025\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/53AF12A1DE5D13064E47AC92949F2572E3106AC7609A10C1BF0662949D6D8D0B\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Brighton & Hove Albion vs. Brentford",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Brighton_vs_Brentford_20231206_1701885315051\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/DFFF0B7B229601A079110D02026BFF84D083493432A063E2B4177F6E713DE682\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Fulham vs. Nottingham Forest",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Fulham_vs_Nottingham_Fore_20231206_1701885329024\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/DDA64E8D8169727F7257AB5725FB578CBC523ED6442419C788B6CBB57D26B86E\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Sheffield United vs. Liverpool",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Sheffield_United_vs_Liver_20231206_1701884401042\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/320CFE548D128830058083744C8BB777EB5CE07AC53164C1FC05E5013981FA90\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Crystal Palace vs. AFC Bournemouth",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Crystal_Palace_vs_Bournem_20231206_1701885336024\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/408B7EDDBF6913D6FF2690518ECC095CA9B15F0A45C0127DD90520E498488AD8\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Antwerp vs. Sporting Charleroi",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Royal_Antwerp_vs_Sporting_20231206_1701885325071\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/A708451A93688037A3C2DE307A90080CC3E950CFC5ACF8A5D681C5AB499F4A01\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Stuttgart vs. Borussia Dortmund",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Stuttgart_vs_Borussia_Dor_20231206_1701885617023\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/CAA60F436A9E3F828CF0DF474091B5CFCA03E965C38658DA6783963D66A02BF8\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Hertha BSC vs. Hamburger SV",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Hertha_Berlin_vs_Hamburg__20231206_1701885906025\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/33B5E2498B82D6F57FB0164EBC91C15CE32218354AA6AD360AE64DC64BDD4328\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Olympique Marseille vs. Olympique Lyonnais",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Olympique_Marseille_vs_Ly_20231206_1701886838027\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/C9D78F05F8587DBA67A2FAEB2922C26591F45066F5488C96048B045AE35617C2\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Villarreal vs. Maccabi Haifa",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Villarreal_vs_Maccabi_Hai_20231206_1701886535035\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/CE50F16EE1BAA167075DED49EEC6064FD93483731234B5E9C6D70A21CECADC3F\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Fiorentina vs. Parma",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Fiorentina_vs_Parma_8vos__20231206_1701886823018\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/09BD5E6C29A5F0DF3707629B8D17E3A7CB7672CFB0DD948D08ACB9CB6D876A13\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Hearts vs. Rangers",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Hearts_vs_Rangers_FC_20231206_1701886841018\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/B20A0EC3468AFE394A3652A3A1FA16339517B37E700B3B913BD2400D179636F2\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Montevideo Wanderers vs. Peñarol",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Montevideo_Wanderers_vs_P_20231206_1701885646016\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/417539C6EA0CEECBE607E0E4023ACDE51D1A562D22509F8E84D5F54885A2CFEC\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Liverpool FC vs. River Plate Uruguay",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Liverpool_FC_vs_River_Pla_20231206_1701886555039\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/28D73D675898DE70AD6F352CA0D2EFA41DF320FB345061356A6C4BF5EC1ED7A6\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Aston Villa vs. Manchester City",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Aston_Villa_vs_Manchester_20231206_1701887113023\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/8F2BD7F6574173CE846D0E3F90487A12BE29C2CE86574DD31F577DA635105AAA\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            },
+            {
+                "name": "Manchester United vs. Chelsea",
+                "uri": "https:\/\/live-ftc-na-south-2.media.starott.com\/clt2\/va01\/starplus\/event\/2023\/12\/06\/Manchester_United_vs_Chel_20231206_1701886500380\/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "icono": "https:\/\/prod-ripcut-delivery.disney-plus.net\/v1\/variant\/star\/8E9B4DAAE546DFBA802DEB43F6465EC8746BA54EF5887818203459CF1B4D0F05\/scale?width=320",
+                "drm_license_uri": "http:\/\/markcastillomcdstore.duckdns.org\/starplus\/index.php"
+            }
+        ]
+    }
 ]

@@ -7,14 +7,14 @@
 	{
 	"icono": "https://png.monster/wp-content/uploads/2021/06/png.monster-12.png",
         "name": "PLAYBOY",
-        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb"
       },
       {
 	"icono": "https://png.monster/wp-content/uploads/2021/06/png.monster-12.png",
         "name": "VENUS",
-        "uri": "https://edge-live02-bel.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af"
       },
@@ -24,13 +24,6 @@
         "uri": "http://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A/Sextreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/536lpgcn0lirov650zikg/KEY.SEX-ESTREME.json?rlkey=fpqsy9xjy4bli2ovizrckovpj&dl=0"
-      },
-      {
-	"icono": "https://png.monster/wp-content/uploads/2021/06/png.monster-12.png",
-        "name": "prueba",
-        "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://api.argentinatv.live/kbx/penthouse.json"
       },
 	{
 	"icono": "https://png.monster/wp-content/uploads/2021/06/png.monster-12.png",
